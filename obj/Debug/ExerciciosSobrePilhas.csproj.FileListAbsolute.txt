@@ -1,0 +1,10 @@
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\bin\Debug\ExerciciosSobrePilhas.exe.config
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\bin\Debug\ExerciciosSobrePilhas.exe
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\bin\Debug\ExerciciosSobrePilhas.pdb
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\obj\Debug\ExerciciosSobrePilhas.csprojAssemblyReference.cache
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\obj\Debug\ExerciciosSobrePilhas.Form1.resources
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\obj\Debug\ExerciciosSobrePilhas.Properties.Resources.resources
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\obj\Debug\ExerciciosSobrePilhas.csproj.GenerateResource.cache
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\obj\Debug\ExerciciosSobrePilhas.csproj.CoreCompileInputs.cache
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\obj\Debug\ExerciciosSobrePilhas.exe
+C:\Users\alexandrehpc\source\repos\ExerciciosSobrePilhas\ExerciciosSobrePilhas\obj\Debug\ExerciciosSobrePilhas.pdb
